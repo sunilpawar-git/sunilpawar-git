@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunilpawar-git
 - 👀 I’m interested in designing apps for productivity
 - 🌱 I’m currently learning swift/ swift UI/ no code programming
-- 💞️ I’m looking to collaborate on building payslip app
+- 💞️ I’m looking to collaborate on building app to parse payslip 
 - 📫 How to reach me : mail.sunilpawar@gmail.com 
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I have a Cat & Dog, which boosts my coding
